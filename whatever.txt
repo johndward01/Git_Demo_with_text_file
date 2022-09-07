@@ -1,0 +1,4 @@
+Step 1. Call the Restaurant
+Step 2. Order the food
+Step 3. Wait for delivery
+Step 4. Pay the driver 
